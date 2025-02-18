@@ -12,4 +12,4 @@ Each version lives on its own branch so you can checkout to each one to review t
     git checkout kurento    // for webrtc using media server
     git checkout tokbox     // for webrtc using CPaaS
 
-As you can see we're using [Kurento](http://www.kurento.org/) as media server and [Tokbox](https://tokbox.com/) as CPaaS service.# video-call
+As you can see we're using [Kurento](http://www.kurento.org/) as media server and [Tokbox](https://tokbox.com/) as CPaaS service.
